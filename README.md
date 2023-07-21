@@ -1,7 +1,7 @@
 # HistoricalEquityPerformance
 Developed a script that uses RapidAPI to gather historical stock data and generate graphs of average monthly returns.
 
-The script makes API calls to RapidAPI to retrieve historical stock data. It then calculates the average monthly return for each stock and generates a graph of the results. The graphs can be used to visualize the performance of different stocks over time and to identify potential investment opportunities.
+The script makes API calls to RapidAPI to retrieve historical stock data. Saving the data to a local SQLite database to increase performance. It then calculates the average monthly return for each stock and generates a graph of the results. The graphs can be used to visualize the performance of different stocks over time and to identify potential investment opportunities.
 
 Here are some of the benefits of using this service:
 
