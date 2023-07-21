@@ -30,7 +30,7 @@ Red ---- shows the yearly average return to be used as baseline.
 <img width="761" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/3de7ace3-6f77-4723-a059-f5dcd5e7126b">
 
 Future work:
-! I want to implement https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ and https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ so it can provide you a sorted pdf with the stocks that are best fitted to buy right now at the top.
+! Decision_Charting.py uses finance markers like EMEA, MACD, RSI to decide which stocks are showing signal of price increases. Create database and train a ML model to help you decide which stocks are the best investments right now and sort the pdf base on the results.
 
 
 
