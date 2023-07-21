@@ -1,4 +1,4 @@
-# HistoricalEqPer
+# HistoricalEquityPerformance
 Developed a script that uses RapidAPI to gather historical stock data and generate graphs of average monthly returns.
 
 The script makes API calls to RapidAPI to retrieve historical stock data. It then calculates the average monthly return for each stock and generates a graph of the results. The graphs can be used to visualize the performance of different stocks over time and to identify potential investment opportunities.
@@ -20,8 +20,11 @@ Design:
 3. Creates graph showing monthly return for each ticker
 4. Outputs the pdf containing all graphs
 
+Output Snapshot:
+
 <img width="757" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/eade8793-8edc-49fc-97fa-b952782bd4d2">
 
+Red ---- shows the yearly average to be used as baseline.
 <img width="763" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/fae2991d-373b-4e79-9cbc-fd9645dd6214">
 
 <img width="761" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/3de7ace3-6f77-4723-a059-f5dcd5e7126b">
