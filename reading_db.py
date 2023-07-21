@@ -3,6 +3,8 @@
 import sqlite3
 import pandas as pd
 import numpy as np
+
+#STEP 3
 # Connect to the database
 conn = sqlite3.connect('/Users/jeff/Desktop/analysis/monthly_returns.db')
 
