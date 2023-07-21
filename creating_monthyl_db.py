@@ -2,7 +2,8 @@
 import datetime
 import requests
 import pandas as pd
-
+#STEP 1
+#this gathers the data
 key = 'YOUR_OWN_KEY'
 
 url = "https://apistocks.p.rapidapi.com/weekly"
