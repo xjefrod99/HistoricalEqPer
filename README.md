@@ -24,7 +24,7 @@ Output Snapshot:
 
 <img width="757" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/eade8793-8edc-49fc-97fa-b952782bd4d2">
 
-Red ---- shows the yearly average to be used as baseline.
+Red ---- shows the yearly average return to be used as baseline.
 <img width="763" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/fae2991d-373b-4e79-9cbc-fd9645dd6214">
 
 <img width="761" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/3de7ace3-6f77-4723-a059-f5dcd5e7126b">
