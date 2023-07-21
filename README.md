@@ -20,5 +20,14 @@ Design:
 3. Creates graph showing monthly return for each ticker
 4. Outputs the pdf containing all graphs
 
+<img width="757" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/eade8793-8edc-49fc-97fa-b952782bd4d2">
+
+<img width="763" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/fae2991d-373b-4e79-9cbc-fd9645dd6214">
+
+<img width="761" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/3de7ace3-6f77-4723-a059-f5dcd5e7126b">
+
 Future work:
 ! I want to implement https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ and https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/ so it can provide you a sorted pdf with the stocks that are best fitted to buy right now at the top.
+
+
+
