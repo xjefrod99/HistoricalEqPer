@@ -3,10 +3,8 @@ import pandas as pd
 import numpy as np
 import sqlite3
 
-
+#STEP 2
 l = "https://apistocks.p.rapidapi.com/weekly"
-
-# key = '3730dcc5f4msh5211faf2fd9d189p1245dfjsn9ef5f086f353'
 
 with open('appendix2.txt', 'r') as f:
     symbol = [line.strip() for line in f]
