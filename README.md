@@ -30,6 +30,7 @@ Red ---- shows the yearly average return to be used as baseline.
 <img width="761" alt="image" src="https://github.com/xjefrod99/HistoricalEqPer/assets/52290399/3de7ace3-6f77-4723-a059-f5dcd5e7126b">
 
 Future work:
+
 ! Decision_Charting.py uses finance markers like EMEA, MACD, RSI to decide which stocks are showing signal of price increases. Create database and train a ML model to help you decide which stocks are the best investments right now and sort the pdf base on the results.
 
 
